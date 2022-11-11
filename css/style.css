@@ -1,0 +1,11 @@
+/* Global */
+@import './global/reset.css';
+@import './global/header.css';
+@import './global/footer.css';
+
+/* Home */
+@import './home/introducao.css';
+@import './home/produto.css';
+@import './home/preco.css';
+@import './home/qualidade.css';
+@import './home/newsletter.css';
